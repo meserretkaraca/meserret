@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+title: Meserret Karaca
+description: I am currently a Ph.D. candidate in the Department of Industrial and Systems Engineering at the University of Florida. I graduated with my M.Sc. at Industrial Engineering from Ozyegin University in Istanbul, Turkey.
+
 You can use the [editor on GitHub](https://github.com/meserretkaraca/meserret/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

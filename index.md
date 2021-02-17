@@ -1,7 +1,6 @@
 ## Meserret Karaca
 
-
-description: I am currently a Ph.D. candidate in the Department of Industrial and Systems Engineering at the University of Florida. I graduated with my M.Sc. at Industrial Engineering from Ozyegin University in Istanbul, Turkey.
+I am currently a Ph.D. candidate in the Department of Industrial and Systems Engineering at the University of Florida. I graduated with my M.Sc. at Industrial Engineering from Ozyegin University in Istanbul, Turkey.
 
 
 
